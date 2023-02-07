@@ -1,5 +1,4 @@
 from model.data.user import User
-from model.pages import practice_form
 from model.pages.practice_form import FillingForm
 
 
